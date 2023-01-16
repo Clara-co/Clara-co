@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on projects that maximize the accuracy of softwares
-- 📫 I can be contacted with obeng.akrofi.clara.t0@tufs.ac.jp
+- 📫 I can be contacted with clara.oa@icloud.com
 
 <!---
 Clara-co/Clara-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
