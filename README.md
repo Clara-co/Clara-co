@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Clara Obeng-Akrofi
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on projects that maximize the accuracy of softwares
-- 📫 I can be contacted with clara.oa@icloud.com
+- 📫 I can be contacted on clara.oa@icloud.com
 
 <!---
 Clara-co/Clara-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
